@@ -22,6 +22,7 @@ import { expressiveCodeOptions, siteConfig } from "./src/site.config";
 // https://astro.build/config
 export default defineConfig({
 	site: siteConfig.url,
+	base: "/beam",
 	image: {
 		domains: ["webmention.io"],
 	},
@@ -34,7 +35,7 @@ export default defineConfig({
 		webmanifest({
 			// See: https://github.com/alextim/astro-lib/blob/main/packages/astro-webmanifest/README.md
 			name: siteConfig.title,
-			short_name: "Astro_Cactus", // optional
+			short_name: "Beam", // optional
 			description: siteConfig.description,
 			lang: siteConfig.lang,
 			icon: "public/icon.svg", // the source for generating favicon & icons
