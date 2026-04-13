@@ -22,6 +22,12 @@ export default {
 						code: {
 							border: "1px dotted #666",
 							borderRadius: "2px",
+							"&::before": {
+								content: "none",
+							},
+							"&::after": {
+								content: "none",
+							},
 						},
 						kbd: {
 							"&:where([data-theme='dark'], [data-theme='dark'] *)": {
