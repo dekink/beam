@@ -1,9 +1,8 @@
 ---
-title: Hello, Welcome
-description: An introduction to using the note feature in Astro Cactus
-publishDate: "2024-10-14T11:23:00Z"
+title: "벌써 5월이다!!!"
+description: "노트1"
+publishDate: "2026-05-05T13:38:00+09:00"
 ---
 
-Hi, Hello. This is an example note feature included with Astro Cactus 🌵
-
-They're for shorter, more concise posts that you'd like to share. They generally don't include headings, but hey, it's entirely up to you!
+기분좋은 2026 하반기를 위해 다시 시작..!
+스터디 다시 열심히 시작해보자 
